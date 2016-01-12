@@ -1,0 +1,22 @@
+{
+  "name": "hippo",
+  "version": "1.0.0",
+  "description": "food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchoi12/hippo.git"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchoi12/hippo/issues"
+  },
+  "homepage": "https://github.com/bchoi12/hippo#readme"
+}
