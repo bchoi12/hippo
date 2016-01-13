@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/bchoi12/hippo/issues"
   },
-  "homepage": "https://github.com/bchoi12/hippo#readme"
+  "homepage": "https://github.com/bchoi12/hippo#readme",
+  "dependencies": {
+    "mongodb": "^2.1.4",
+    "mongoose": "^4.3.5"
+  }
 }
